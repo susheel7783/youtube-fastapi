@@ -1,5 +1,7 @@
 # MiniTube - Video Sharing Platform
 
+link:   https://codesera-youtube-fastapi.netlify.app/
+
 A full-stack YouTube-like video sharing platform built with FastAPI (Python) and React.
 
 ## Features
